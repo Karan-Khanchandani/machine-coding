@@ -1,0 +1,7 @@
+Given customer Geo Location(Lat-Long) and List of Restaurants.
+Each restaurant consist of : - Lat long of restaurant - Name - List of Items,
+where each item has - Item Name - Prep Time - Sensitivity ( Low, Medium, High).
+Lower sensitive items like Ice cream cannot be delivered more than 2 KM.
+- Find out List of Restaurant Given Customer and Cart is Empty
+- Find out SLA(Time to deliver) given cart, restaurant and Customer
+- Parameters should be Configurable like Sensitivity, Max prep time etc
